@@ -1,0 +1,35 @@
+ body
+ {
+    background: linear-gradient(to bottom, #e1c699 0%, #ffffcc 100%);
+ }
+
+ button
+ {
+    width: 100px;
+    height: 40px;
+    font-family: monospace;
+    font-size:20px;
+    border-radius: 50px;
+    border-color:olive;
+    border-width: 5px;
+    border-style:ridge;
+    background-color:rgb(222, 255, 168);
+ }
+
+h1
+{
+    font-family:fantasy;
+    font-size: 60px;
+}
+img{
+    width: 270px;
+    height: 360px;
+    border-radius: 50px;
+}
+
+h4
+{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 35px;
+}
+  
